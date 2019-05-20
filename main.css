@@ -1,5 +1,24 @@
 
 #header {
-  color: red;
+  text-align: center;
+}
+
+#top {
+  text-align: center;
+}
+
+#about {
+  text-align: center;
+}
+
+#story {
+  text-align: center;
+}
+
+#features {
+  text-align: center;
+}
+
+#screenshots {
   text-align: center;
 }
