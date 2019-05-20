@@ -22,3 +22,8 @@
 #screenshots {
   text-align: center;
 }
+
+p {
+  color: yellow;
+  font-weight: bold;
+}
